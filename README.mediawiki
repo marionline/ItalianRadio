@@ -1,0 +1,12 @@
+== ItalianRadio ==
+Questo è il nuovo script per Amarok 2.*.
+
+Script originariamente scritto da Alessio Leonarduzzi:
+http://kde-apps.org/content/show.php?action=content&content=100304
+
+== TODO ==
+* Aggiornare flussi radio
+* Aggiungere radio
+* Dare la possibilità di aggiungere nuove radio
+* Fornire la possibilità di modificare i flussi esistenti
+* Form ricerca nell'elenco radio
