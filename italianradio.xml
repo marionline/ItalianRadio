@@ -1,0 +1,348 @@
+<?xml version="1.0" ?>
+<radiostations>
+	<radiostation id="ItalianRadio">
+		<stream>
+			<id>0</id>
+			<key>radiobirikina</key>
+			<name>Radio Birikina</name>
+			<description>La radio bella e monella</description>
+			<playlist>http://players.fluidstream.net/birikina.pls</playlist>
+		</stream>
+		<stream>
+			<id>1</id>
+			<key>isoradio</key>
+			<name>Isoradio</name>
+			<description></description>
+			<playlist>rtsp://live.media.rai.it/broadcast/isoradio.rm</playlist>
+		</stream>
+		<stream>
+			<id>2</id>
+			<key>radio101</key>
+			<name>Radio 101</name>
+			<description></description>
+			<playlist>http://players.creacast.com/creacast/r101/playlist.asx</playlist>
+		</stream>
+		<stream>
+			<id>2</id>
+			<key>radio101</key>
+			<name>Radio 101</name>
+			<description></description>
+			<playlist>http://players.creacast.com/creacast/r101/playlist.asx</playlist>
+		</stream>
+		<stream>
+			<id>3</id>
+			<key>radio105</key>
+			<name>Radio 105</name>
+			<description></description>
+			<playlist>mms://151.1.245.3/1</playlist>
+		</stream>
+		<stream>
+			<id>4</id>
+			<key>radio24</key>
+			<name>Radio 24</name>
+			<description></description>
+			<playlist>mms://62.196.2.90/Radio24</playlist>
+		</stream>
+		<stream>
+			<id>5</id>
+			<key>radiocapital</key>
+			<name>Radio Capital</name>
+			<description></description>
+			<playlist>http://live.mediaserver.kataweb.it/capital</playlist>
+		</stream>
+		<stream>
+			<id>6</id>
+			<key>radiocentrosuono</key>
+			<name>Radio Centro Suono</name>
+			<description></description>
+			<playlist>http://wms.mclink.it/rcs_64_live</playlist>
+		</stream>
+		<stream>
+			<id>7</id>
+			<key>radiocentrosuonosport</key>
+			<name>Radio Centro Suono Sport</name>
+			<description></description>
+			<playlist>http://wms.mclink.it/rcs_65_live</playlist>
+		</stream>
+		<stream>
+			<id>8</id>
+			<key>radiocentrosuonosport</key>
+			<name>Radio Centro Suono Sport</name>
+			<description></description>
+			<playlist>http://wms.mclink.it/rcs_65_live</playlist>
+		</stream>
+		<stream>
+			<id>9</id>
+			<key>radiocitta'aperta</key>
+			<name>Radio Citta' Aperta</name>
+			<description></description>
+			<playlist>http://stream.greynetweb.it/rca?MSWMExt=.asf</players>
+		</stream>
+		<stream>
+			<id>10</id>
+			<key>radiodeegay</key>
+			<name>Radio DeeGay</name>
+			<description></description>
+			<playlist>http://deegay.it/deegay.asx</players>
+		</stream>
+		<stream>
+			<id>11</id>
+			<key>radiodeejay</key>
+			<name>RadioDeeJay</name>
+			<description></description>
+			<playlist>http://live.mediaserver.kataweb.it/radiodeejay</players>
+		</stream>
+		<stream>
+			<id>12</id>
+			<key>RadioDiscoRadio</key>
+			<name>Radio DiscoRadio</name>
+			<description></description>
+			<playlist>http://discoradio.fabbricadigitale.it/asx/discoradio.asx</playlist>
+		</stream>
+		<stream>
+			<id>13</id>
+			<key>radio gamma</key>
+			<name>Radio Gamma</name>
+			<description></description>
+			<playlist>http://live.wm.p1.str3.com/000999_bc_a365_radiogamma_mi</playlist>
+		</stream>
+		<stream>
+			<id>14</id>
+			<key>radioitalia</key>
+			<name>Radio Italia</name>
+			<description></description>
+			<playlist>http://radioitalialive.str.idc.extra.it/radioitalia</playlist>
+		</stream>
+		<stream>
+			<id>15</id>
+			<key>radiolattemiele</key>
+			<name>Radio Lattemiele</name>
+			<description></description>
+			<playlist>http://onair2.xdevel.com/LatteMiele</playlist>
+		</stream>
+		<stream>
+			<id>16</id>
+			<key>radiolifegateradio</key>
+			<name>Radio Lifegate Radio</name>
+			<description></description>
+			<playlist>http://www.streamsolution.it/onair/lifegate.asx</playlist>
+		</stream>
+		<stream>
+			<id>17</id>
+			<key>radiom2o</key>
+			<name>Radio M2O</name>
+			<description></description>
+			<playlist>http://mp3.m2o.it:80/</playlist>
+		</stream>
+		<stream>
+			<id>18</id>
+			<key>radiomontecarlo</key>
+			<name>Radio Montecarlo</name>
+			<description></description>
+			<playlist>http://www.radiomontecarlo.net/Radio/asx/rmcfm.asx</playlist>
+		</stream>
+		<stream>
+			<id>19</id>
+			<key>radiomontecarlo2</key>
+			<name>Radio Montecarlo 2</name>
+			<description></description>
+			<playlist>http://www.radiomontecarlo.net/Radio/asx/rmc2fm.asx</playlist>
+		</stream>
+		<stream>
+			<id>20</id>
+			<key>radiomontecarlo80</key>
+			<name>Radio Montecarlo 80</name>
+			<description></description>
+			<playlist>http://www.radiomontecarlo.net/Radio/asx/rmc80.asx</playlist>
+		</stream>
+		<stream>
+			<id>21</id>
+			<key>radiomontecarloitalia</key>
+			<name>Radio Montecarlo Italia</name>
+			<description></description>
+			<playlist>http://www.radiomontecarlo.net/Radio/asx/italia.asx</playlist>
+		</stream>
+		<stream>
+			<id>22</id>
+			<key>radiomontecarlolovesongs</key>
+			<name>Radio Montecarlo Love Songs</name>
+			<description></description>
+			<playlist>http://www.radiomontecarlo.net/Radio/asx/Thematic_7.asx</playlist>
+		</stream>
+		<stream>
+			<id>23</id>
+			<key>radiomontecarlothebest</key>
+			<name>Radio Montecarlo the Best</name>
+			<description></description>
+			<playlist>http://www.radiomontecarlo.net/Radio/asx/thebest.asx</playlist>
+		</stream>
+		<stream>
+			<id>24</id>
+			<key>radionorba</key>
+			<name>Radio Norba</name>
+			<description></description>
+			<playlist>http://87.117.203.165/RadioNorba</playlist>
+		</stream>
+		<stream>
+			<id>25</id>
+			<key>radionostalgia</key>
+			<name>Radio Nostalgia</name>
+			<description></description>
+			<playlist>mms://www.nostalgia.it/nostalgia</playlist>
+		</stream>
+		<stream>
+			<id>26</id>
+			<key>radiopopolare</key>
+			<name>Radio Popolare</name>
+			<description></description>
+			<playlist>mms://192.106.107.143/mir</playlist>
+		</stream>
+		<stream>
+			<id>27</id>
+			<key>radiorai1</key>
+			<name>Radio Rai 1</name>
+			<description></description>
+			<playlist>rtsp://live.media.rai.it/broadcast/radiouno.rm</playlist>
+		</stream>
+		<stream>
+			<id>28</id>
+			<key>radiorai2</key>
+			<name>Radio Rai 2</name>
+			<description></description>
+			<playlist>rtsp://live.media.rai.it/broadcast/radiodue.rm</playlist>
+		</stream>
+		<stream>
+			<id>29</id>
+			<key>radiorai3</key>
+			<name>Radio Rai 3</name>
+			<description></description>
+			<playlist>rtsp://live.media.rai.it/broadcast/radiotre.rm</playlist>
+		</stream>
+		<stream>
+			<id>30</id>
+			<key>radiorock</key>
+			<name>Radio Rock</name>
+			<description></description>
+			<playlist>http://80.79.62.11:8000/radiorock.ogg</playlist>
+		</stream>
+		<stream>
+			<id>31</id>
+			<key>radiorockitalia</key>
+			<name>Radio Rock Italia</name>
+			<description></description>
+			<playlist>mms://66.186.34.172:8971/RockItalia_audio</playlist>
+		</stream>
+		<stream>
+			<id>32</id>
+			<key>radiortl102.5classic</key>
+			<name>Radio RTL 102.5 Classic</name>
+			<description></description>
+			<playlist>http://www.rtl.it/player/streaming/rtl1025classic.asx</playlist>
+		</stream>
+		<stream>
+			<id>33</id>
+			<key>radiortl102.5groove</key>
+			<name>Radio RTL 102.5 Groove</name>
+			<description></description>
+			<playlist>http://www.rtl.it/player/streaming/rtl1025groove.asx</playlist>
+		</stream>
+		<stream>
+			<id>34</id>
+			<key>radiortl102.5guardiacostiera</key>
+			<name>Radio RTL 102.5 Guardia Costiera</name>
+			<description></description>
+			<playlist>mms://mediaplayer.rtl.it/rtl1025_gc</playlist>
+		</stream>
+		<stream>
+			<id>35</id>
+			<key>radiortl102.5italianstyle</key>
+			<name>Radio RTL 102.5 Italian Style</name>
+			<description></description>
+			<playlist>http://www.rtl.it/player/streaming/rtl1025it.asx</playlist>
+		</stream>
+		<stream>
+			<id>36</id>
+			<key>radiowebstereo</key>
+			<name>Radio Web Stereo</name>
+			<description></description>
+			<playlist>http://www.radiowebstereo.it/players/listen.asx</playlist>
+		</stream>
+		<stream>
+			<id>37</id>
+			<key>radiostudio54</key>
+			<name>Radio Studio 54</name>
+			<description></description>
+			<playlist>mms://wma2.mediastreaming.it/studio54128</playlist>
+		</stream>
+		<stream>
+			<id>40</id>
+			<key>radiotoscana</key>
+			<name>Radio Toscana</name>
+			<description></description>
+			<playlist>http://62.48.43.242/RTN</playlist>
+		</stream>
+		<stream>
+			<id>41</id>
+			<key>radiotoscanaclassica</key>
+			<name>Radio Toscana Classica</name>
+			<description></description>
+			<playlist>mms://streaming.intoscana.it/wmtencoder/rtc.wma</playlist>
+		</stream>
+		<stream>
+			<id>42</id>
+			<key>radiovirginalternative</key>
+			<name>Radio Virgin Alternative</name>
+			<description></description>
+			<playlist>mms://151.1.245.1/36</playlist>
+		</stream>
+		<stream>
+			<id>43</id>
+			<key>radiovirginextreme</key>
+			<name>Radio Virgin Extreme</name>
+			<description></description>
+			<playlist>mms://151.1.245.1/25</playlist>
+		</stream>
+		<stream>
+			<id>44</id>
+			<key>radiovirginitalia</key>
+			<name>Radio Virgin Italia</name>
+			<description></description>
+			<playlist>http://151.1.245.1/20</playlist>
+		</stream>
+		<stream>
+			<id>45</id>
+			<key>radiovirginrevolver</key>
+			<name>Radio Virgin Revolver</name>
+			<description></description>
+			<playlist>mms://151.1.245.1/34</playlist>
+		</stream>
+		<stream>
+			<id>46</id>
+			<key>radiovirginrockclassico</key>
+			<name>Radio Virgin Rock Classico</name>
+			<description></description>
+			<playlist>mms://151.1.245.1/24</playlist>
+		</stream>
+		<stream>
+			<id>47</id>
+			<key>radiovirginrockabilly</key>
+			<name>Radio Virgin Rockabilly</name>
+			<description></description>
+			<playlist>mms://151.1.245.1/13</playlist>
+		</stream>
+		<stream>
+			<id>48</id>
+			<key>radiovenezia</key>
+			<name>Radio Venezia</name>
+			<description></description>
+			<playlist>http://www.radiovenezia.it:8000/live</playlist>
+		</stream>
+		<stream>
+			<id>49</id>
+			<key>rdsradiodimensionesuono</key>
+			<name>RDS Radio Dimensione Suono</name>
+			<description></description>
+			<playlist>http://www.rds.it/streaming/rds.asx</playlist>
+		</stream>
+	</radiostation>
+</radiostations>
