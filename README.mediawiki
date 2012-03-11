@@ -4,6 +4,9 @@ Questo è il nuovo script per Amarok 2.*.
 Script originariamente scritto da Alessio Leonarduzzi:
 http://kde-apps.org/content/show.php?action=content&content=100304
 
+Parte di codice preso dallo script sky.fm:
+http://kde-apps.org/content/show.php/Sky.fm+and+DI.fm+radio+streams+service?content=126844
+
 == TODO ==
 * Aggiornare flussi radio
 * Aggiungere radio
