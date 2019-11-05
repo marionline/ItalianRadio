@@ -23,13 +23,6 @@
 			<playlist>http://players.creacast.com/creacast/r101/playlist.asx</playlist>
 		</stream>
 		<stream>
-			<id>2</id>
-			<key>radio101</key>
-			<name>Radio 101</name>
-			<description></description>
-			<playlist>http://players.creacast.com/creacast/r101/playlist.asx</playlist>
-		</stream>
-		<stream>
 			<id>3</id>
 			<key>radio105</key>
 			<name>Radio 105</name>
